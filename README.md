@@ -32,4 +32,4 @@ Bu proje, farklı sektorlerden hisse senetlerinin zaman serisi verilerini kullan
 
 Aşağıda, model doğruluğu ve analiz edilen hisse senetlerini içeren görsel yer almaktadır:
 
-![Stock Sector Classification](/Users/baranmertaral/Desktop/Stock-Sector.webp)
+![Stock-Sector](https://github.com/user-attachments/assets/fa63b45d-17c7-4fc8-9d84-bffb4bbbea78)
