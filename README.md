@@ -27,3 +27,9 @@ Bu proje, farklı sektorlerden hisse senetlerinin zaman serisi verilerini kullan
 ├── notebook.ipynb
 ├── README.md
 └── requirements.txt
+
+## 📊 Proje Görseli
+
+Aşağıda, model doğruluğu ve analiz edilen hisse senetlerini içeren görsel yer almaktadır:
+
+![Stock Sector Classification](/Users/baranmertaral/Desktop/Stock-Sector.webp)
